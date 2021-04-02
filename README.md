@@ -1,4 +1,4 @@
 # Olá, mundo!
- Primeiro repositório versionado.
+ Primeiro repositório *versionado*.
 
- Aprendendo a usar o Git e GitHub.
+ Aprendendo a utilizar **Git e GitHub**.
